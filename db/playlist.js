@@ -5,3 +5,6 @@ const playlist = [
   "Sound of Voices",
   "Tearful Paradise",
 ];
+
+// At the bottom of that file, add a line to export that array as the default export.
+export default playlist
